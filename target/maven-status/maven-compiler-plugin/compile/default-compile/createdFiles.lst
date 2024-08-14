@@ -1,0 +1,4 @@
+com\mycompany\contabancaria\resources\JakartaEE10Resource.class
+com\mycompany\contabancaria\JakartaRestConfiguration.class
+com\mycompany\contabancaria\Conta.class
+com\mycompany\contabancaria\TestaConta.class
